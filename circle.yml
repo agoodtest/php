@@ -3,4 +3,4 @@ machine:
     version: 5.5.11
 dependencies:
   pre:
-    - composer install
+    - echo '\n' | composer install
